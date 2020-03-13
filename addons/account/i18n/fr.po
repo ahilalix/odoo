@@ -8090,6 +8090,8 @@ msgstr "Remboursement partiel"
 msgid "Partner"
 msgstr "Partenaire"
 
+
+
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_invoice_report__commercial_partner_id
 msgid "Partner Company"
