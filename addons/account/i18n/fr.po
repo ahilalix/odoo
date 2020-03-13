@@ -2857,16 +2857,16 @@ msgid "Cash Rounding"
 msgstr "Arrondi d'espèces"
 
 #. module: account
-#: model:ir.model.fields,field_description:account.field_account_move__invoice_cash_rounding_id
-msgid "Cash Rounding Method"
-msgstr "Méthode d'arrondi d'espèces"
-
-#. module: account
 #: model:ir.actions.act_window,name:account.rounding_list_action
 #: model:ir.ui.menu,name:account.menu_action_rounding_form_view
 #: model_terms:ir.ui.view,arch_db:account.res_config_settings_view_form
 msgid "Cash Roundings"
 msgstr "Arrondis d'espèces"
+
+#. module: account
+#: model:ir.model.fields,field_description:account.field_account_move__invoice_cash_rounding_id
+msgid "Cash Rounding Method"
+msgstr "Méthode d'arrondi d'espèces"
 
 #. module: account
 #: model_terms:ir.ui.view,arch_db:account.report_statement
